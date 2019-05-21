@@ -2,6 +2,10 @@
 
 > 看了大神[sorrycc](https://github.com/sorrycc)的工具库[awesome-tools](https://github.com/sorrycc/awesome-tools/blob/master/README.md)
 
+### 吹吹风
+
+- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases/) Mac上使用
+
 ### 编辑器
 
 - [**Intellij Idea**](https://www.jetbrains.com/idea/) 拎包入住，无需配置
