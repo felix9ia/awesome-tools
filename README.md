@@ -15,3 +15,7 @@
 - 文档生成
   - [**Docsify**](https://docsify.js.org/#/) 在用
   - [**VuePress**](https://vuepress.vuejs.org/zh/) 备选，因为[UmiJS](https://umijs.org/zh/)在用
+  
+  Vscode ITerm2 字体乱码
+  https://github.com/abertsch/Menlo-for-Powerline
+  "terminal.integrated.fontFamily": "Menlo for Powerline"
