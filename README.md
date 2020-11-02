@@ -4,7 +4,7 @@
 
 ### 吹吹风
 
-- [ShadowsocksX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases/) Mac上使用
+- [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) Mac上使用
 
 ### 编辑器
 
