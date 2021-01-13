@@ -5,6 +5,7 @@
 ### 吹吹风
 
 - [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) Mac上使用
+- [免费的 ssr 节点](https://github.com/freefq/free)
 
 ### 编辑器
 
