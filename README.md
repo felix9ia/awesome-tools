@@ -7,6 +7,7 @@
 - [ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases) Mac上使用
 - [免费的 ssr 节点](https://github.com/freefq/free)
 
+- [Linux - ssr helper](https://github.com/noahziheng/ssr-helper/issues)
 ### 编辑器
 
 - [**Intellij Idea**](https://www.jetbrains.com/idea/) 拎包入住，无需配置
