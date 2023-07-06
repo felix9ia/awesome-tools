@@ -21,3 +21,11 @@
   Vscode ITerm2 字体乱码
   https://github.com/abertsch/Menlo-for-Powerline
   "terminal.integrated.fontFamily": "Menlo for Powerline"
+
+### 窗口管理
+
+[Hammerspoon](https://www.hammerspoon.org/go/)
+
+[配置参考](https://github.com/S1ngS1ng/HammerSpoon)
+
+[我的配置 - TODO]()
